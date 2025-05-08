@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a,b,descend;
+
+    cin>>a>>b;
+
+    descend=a+b;
+
+    cout<<descend;
+
+
+    return 0;
+}
